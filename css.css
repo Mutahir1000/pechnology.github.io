@@ -1249,4 +1249,7 @@ nav div ul li{
 	background-color: black;
 	margin-left: -39px;
 }
+header{
+	display:block;
+}
 }
